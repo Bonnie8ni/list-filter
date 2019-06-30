@@ -1,7 +1,3 @@
-## 範例網址
-
-https://bonnie8ni.github.io/list-filter/
-
 ## sample
 
 1. 註解的地方是前端處理 filter 的方式
