@@ -6,7 +6,8 @@
 
 ## 特別說明
 
-npm run start / npm run server
+此專案要先將 server 跑起來再執行
+node server.js / npm run start
 
 ## 此專案使用 create-react-app
 
